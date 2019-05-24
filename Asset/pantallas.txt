@@ -1,0 +1,17 @@
+gestor de canciones para musica independiente 
+catalogo canciones-genero-discografia-artistas
+1-home (catalogo de todos los libros) 
+ poder filtrar por 
+-genero -cancion           -autor    -discografica
+-pop    -luz sin gravedad -belinda  -sony
+    formulario cargar  cancion 
+ -borrar cancion
+*preguntar tabla album
+
+2-generos(catalogo por genero)
+
+3-vista discograficas (catalogo por discografia)
+
+  click en discograficas,mostrar todas las canciones 
+
+4-artistas/autores datos de los artistas de cada album

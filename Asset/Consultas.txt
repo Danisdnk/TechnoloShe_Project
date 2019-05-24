@@ -1,0 +1,4 @@
+-Yo hago las paginas,pero hoy en dia son estaticas,como puedo hacer para cargarle el contenido ? ej pagina cancion a pagina anterior,para volver al artista que le corresponde tengo que hacer otra peticion ? que haga coincidir index.html/pag_artista/NombreArtistaBaseDatos? 
+para asi cargar las peticiones de mi pagina artistaX con los datos asociados de la db? 
+O puedo hacer una peticion directamente para volver a la pagina previa del artista ? sea un backfoward o algo del history de mi pagina? 
+mi primer idea fue asociarlo con el localstorage pero no se si puedo obtener datos de la pagina previa asi que queda en el limbo 
