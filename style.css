@@ -1,5 +1,40 @@
-*{margin: 0; padding: 0; box-sizing: content-box;}
+*{margin: 0px; padding: 0px;  font-size: 16px; }
+html,body {
+    height: 100%;
+    box-sizing: content-box;
+  }
 .color{
-    background-color: aquamarine;
+    background-color: rgb(154, 237, 240);
+
 
 }
+.title{
+   color: rgb(255, 255, 255); 
+   font-size: 8em;
+   margin: 0px;
+}
+
+.navbar-left {
+    height: 100vh;
+    left: 0;
+    position: fixed;
+  }
+  .centrar{
+      justify-content: flex-end;
+      display: flex;
+  /*     background-color: blue; */
+      height: 50%;
+  }
+  .centrar-items{
+      align-self: center;
+  }
+  .color1{/* background-color: rebeccapurple; */ background-color: darkgray;}
+  
+  .color2{/* background-color: greenyellow; */
+background-color: darkgray;}
+  .tamaño{
+     
+      height: 180px;
+      background-color: cornflowerblue;
+      border-radius: 3%;
+  }
